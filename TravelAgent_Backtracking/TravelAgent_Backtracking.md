@@ -8,9 +8,9 @@
 
 &emsp;&emsp;假设城市数量n=4，V={A,B,C,D}，设出发城市为A，问题的解空间为{A→{B，C，D三者的全排列}→A}，列出所有可能路线
 
-![Path Map](C:\Users\176\Desktop\vscode\boke\TravelAgent_Backtracking\image\Path Map.png)
+![image](./image/Path%20Map.png)
 
-![Branch tree](C:\Users\176\Desktop\vscode\boke\TravelAgent_Backtracking\image\Branch tree.png)
+![image](./image/Branch%20tree.png)
 
 ### 基本算法：回溯法
 
