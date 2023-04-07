@@ -10,7 +10,7 @@
 
 ![image](./image/Path%20Map.png)
 
-![image](./image/Branch%20tree(1).png)
+![image](./image/Branch%20tree.png)
 
 ### 基本算法：回溯法
 
